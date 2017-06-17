@@ -1,0 +1,21 @@
+{
+  "name": "lab-03-fs-async",
+  "version": "1.0.0",
+  "description": "**Author** Scott McCoy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdmccoy/lab-03-fs-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdmccoy/lab-03-fs-async/issues"
+  },
+  "homepage": "https://github.com/sdmccoy/lab-03-fs-async#readme"
+}
