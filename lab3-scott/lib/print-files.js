@@ -10,7 +10,7 @@ module.exports = (files, callback) => {
       (err) ? console.log(err) : results.push(data.toString());
       fs.readFile(files[2], (err, data) => {
         (err) ? console.log(err) : results.push(data.toString());
-        callback(results);
+        callback(null, results);
       });
     });
   });
